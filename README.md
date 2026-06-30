@@ -114,5 +114,3 @@ A synthetic regression dataset generated using Scikit-Learn to demonstrate regul
 ## 🏁 Conclusion
 
 Elastic Net Regression is a powerful regularization technique that combines the strengths of both Lasso and Ridge Regression. This project provides a practical understanding of how mixed regularization improves model performance, controls complexity, and balances feature selection with coefficient shrinkage.
-
-
